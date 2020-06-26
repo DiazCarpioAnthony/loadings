@@ -34,8 +34,6 @@ body {
   width: 80%;
   border-radius: 15px;
   padding: 5px;
-  -webkit-box-shadow: 13px 8px 12px -7px rgba(49, 49, 49, 0.36);
-          box-shadow: 13px 8px 12px -7px rgba(49, 49, 49, 0.36);
 }
 
 @media (min-width: 480px) {
