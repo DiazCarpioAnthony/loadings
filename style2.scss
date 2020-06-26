@@ -11,7 +11,8 @@ $secondary-color-hover : #188367;
 body {
     margin: 0;
     padding: 0;
-    background: $primary-color;
+    background: $secondary-color;
+
 }
 .container {
     height: 100vh;
@@ -36,7 +37,7 @@ body {
 
         @media (min-width: 480px) {
             width: 70%;
-            height: 110px;
+            height: 100px;
 
         }
     }
